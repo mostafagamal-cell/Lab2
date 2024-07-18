@@ -1,3 +1,4 @@
 int is integer
 F is float
 int is 64
+short is 32 
