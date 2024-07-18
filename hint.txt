@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 this hint one
 this hint two
 this hint three
-=======
->>>>>>> d50b0a2e9894ae381754241e55fa8ad815b4b2eb
+
